@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Newly graduated Electrical&Electronics Engineer, working as a Software Developer.<br><br>🤝 I have been working for a software company called Softtech since August 2021, part time for the first 10 months.<br><br>🌱 I’m currently learning Power BI and React.
+🔭 Electrical&Electronics Engineer, working as a Software Developer.<br><br>🤝 I have been working for a software company called Softtech since August 2021, part time for the first 10 months.<br><br>🌱 I’m currently learning Power BI and React.
 
 
 ## 🌐 Socials:
