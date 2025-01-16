@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Electrical&Electronics Engineer, working as a Software Developer.<br><br>🤝 I have been working for a software company named Softtech since August 2021, part time for the first 10 months.<br><br>
+🔭 Electrical&Electronics Engineer, working as a Software Engineer.<br><br>🤝 I have been working for a software company named Softtech since August 2021, part time for the first 10 months.<br><br>
 
 
 ## 🌐 Socials:
